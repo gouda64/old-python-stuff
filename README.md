@@ -1,6 +1,6 @@
 # Old Python Stuff
 
-As a note, there are a TON of inconsistencies here in both conventions and in general crusty dusty code. I don't even know why I'm saying this when it's just gonna be private though lol, just trying to make myself feel better
+As a note, there are a TON of inconsistencies here in both conventions and in general crusty dusty code. These are just for myself to look back on.
 
 ## First-Project
 Initial commit - Jun 29, 2020
